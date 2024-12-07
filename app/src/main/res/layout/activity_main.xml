@@ -43,7 +43,7 @@
             android:id="@+id/edt_altura"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="Digite sua altura Ex:: 1.70" />
+            android:hint="Digite sua altura Ex: 1.70" />
     </com.google.android.material.textfield.TextInputLayout>
 
 
