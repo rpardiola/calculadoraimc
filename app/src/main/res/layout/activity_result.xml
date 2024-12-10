@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:gravity="center"
     tools:context=".ResultActivity">
-
+d
     <TextView
         android:id="@+id/tv_result"
         android:textSize="52sp"
